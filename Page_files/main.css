@@ -1,0 +1,28 @@
+
+.projectFrame{
+	text-align:middle;
+	border:2px solid #a1a1a1;
+	border-color: #ff6600;
+	width:85%;
+	height:120px;
+	padding:10px 30px; 
+	border-radius:15px;
+	-moz-border-radius:15px;
+}
+
+.projectTitle{
+margin: 8px 8px;
+}
+
+
+.dropcap_blue {
+	display: block;
+	float: left;
+	font-size: 18px;
+	line-height: 35px;
+	margin: 8px 8px;
+	text-align: center;
+	width: 120px;
+}
+
+.dropcap_blue {background: url(../images/bluebtn.png) no-repeat center; color: #000}
